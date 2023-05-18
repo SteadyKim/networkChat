@@ -4,8 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NetworkChatApplication {
+public class networkChatApplication {
     public static void main(String[] args) {
-        SpringApplication.run(NetworkChatApplication.class, args);
+        SpringApplication.run(networkChatApplication.class, args);
     }
 }
